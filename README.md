@@ -18,8 +18,8 @@ Follow these steps to run the API on your local machine:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
+git clone https://github.com/codewithshabbir/simple-api-python
+cd simple-api-python
 ```
 
 ### 2️⃣ Install Dependencies
@@ -59,6 +59,12 @@ GET /money-quotes?apiKey=123456789
   "money-quotes": "Don’t work for money, make money work for you. – Robert Kiyosaki"
 }
 ```
+
+---
+
+## 🌍 Live Demo
+Check out the live version of this API:  
+🔗 **[Live API](https://simple-api-codewithshabbir.streamlit.app/)**
 
 ---
 
